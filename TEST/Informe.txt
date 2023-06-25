@@ -1,0 +1,23 @@
+Informe.
+
+* Infraestructura en la nube.
+
+    Para la Infraestructura de la aplicación en la nube se debe escoger dónde se van 
+    a alojar los datos que cargue el usario y la base de la app como tal. Pensaría
+    que debería ser práctico donde se pueda alojar toda la información tanto como de los
+    datos cargados por el usario, modelos y diferentes resultados alojados a lo largo de
+    las diferentes interacciones del usuario con la app.
+    En general lo ideal sería escoger un proveedor que brinde tanto como seguridad accesibilidad, almacenamiento entre otros de manera eficaz. 
+    Propondría como arquitectura "Azure"
+
+* Docker en la app
+
+    Sería muy útil hacer uso de Docker para alojar todas las dependencias de la aplicación
+    de manera conjunta en la nube, donde allí estaría todo lo necesario para desplegar la 
+    aplicación de manera remota
+
+* Kubernetes
+
+    Sería uan gran ventaja usar Kubernetes, pues se podría gestionar los recursos necesarios que necesita la aplicación para poder entrar en funcionanmiento. Se
+    debería hacer pruebas de cuáles son los recursos mínimos que va a necesitar la aplicación, o más general aún dependiendo de la catidad de datos que se vayan a analizar y que en función de esa cantidad o tipo de datos se gestionen de una manera u otra estos recursos.
+

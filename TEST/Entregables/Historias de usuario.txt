@@ -1,0 +1,12 @@
+Historias de usuario.
+
+La idea es que el usario pueda:
+    * Cargar nuevos datos para ser evaluados por el modelo
+    * Revisar cómo se están comportando los parametros del módelo 
+        (podría ser con MLOPS)
+    * Navegar y visualizar como se han comprotado los modelos para los diferentes datos cargados
+
+
+- Se espera que la aplicación cuente con autentificación de los usuarios con nombre de usario y contraseña, además que pueda cargar más datos para ser evaluados por el modelo o revisar datos cargados anteriormente.
+
+- 
